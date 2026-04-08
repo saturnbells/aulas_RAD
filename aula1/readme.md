@@ -55,7 +55,7 @@ caso você esteja utilizando um arquivo .txt (tipo um requirements .txt)
 
 **python desafio.py**
 
-caso algum erro aconteça (ou por algum motivo simplesmente não rode), tente usar "py" ao invés de "python"
+caso algum erro aconteça (ou por algum motivo simplesmente não rode), tente usar "py" ao invés de "python" no terminal git/MINGW64
 
 [5.1]
 
