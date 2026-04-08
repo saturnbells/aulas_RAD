@@ -25,7 +25,7 @@ def api_calcular():
     operacao = request.args.get('operacao')
 
     if a_str is None or b_str is None or operacao is None:
-        return jsonify({"erro": "parâmetros 'a', 'b' e 'operacao' são obrigatórios."}), 400
+        return jsonify({"erro": "parâmetros 'a', 'b' e 'operacao' são obrigatorios."}), 400
 
     try:
         a = float(a_str)
